@@ -1,6 +1,6 @@
 {
   "name": "@atomicloud/diene.standard-config",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Infra config preset schemas (postgres, cache, kv, storage) + Testcontainers TestHelper for the AtomiCloud TypeScript family — keyed, UPPERCASE, secrets blank-in-yaml, composed into a lib/bun/config registry.",
   "type": "module",
   "main": "./dist/index.cjs",
